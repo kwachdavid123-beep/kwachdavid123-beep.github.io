@@ -2,7 +2,7 @@ relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "com.kwachdavid.tumana",
-    "sha256_cert_fingerprints": ["3B:2A:F2:79:42:0A:73:71:D1:6C:92:08:AC:AC:7D:7B:C8:CC:62:7D:18:A9:35:EB:D1:5C:FC:E8:B3:D9:0E:F7"]
+    "sha256_cert_fingerprints": ["68:AC:36:E7:A4:67:BC:09:A8:33:F7:A9:30:ED:78:1A:DB:00:DB:70:41:45:73:04:1F:7D:3A:B9:E1:AA:04:5D"]
   }
 }]
 
